@@ -182,9 +182,7 @@ const Navbar = () => {
                   </div>
                 </DialogContent>
               </Dialog>
-              <Button variant="outline" className="text-white border-white text-base font-outfit hover:bg-white hover:text-black transition">
-                Signup
-              </Button>
+              
             </div>
             {/* Mobile menu button */}
             <div className="md:hidden">
